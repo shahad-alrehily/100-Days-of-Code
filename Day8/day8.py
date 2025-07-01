@@ -1,7 +1,7 @@
 print("Hello. Welcome to your daily affirmation generator.")
 name = input("What is your name?")
 
-if name =="Guru" or name == "guru":
+if name =="shahad" or name == "shahad":
  DOW = input("What is the day of the week?")
  if DOW == "monday" or DOW == "Monday":
    print("It is going to be a great Monday", name)
@@ -14,7 +14,7 @@ if name =="Guru" or name == "guru":
  if DOW == "friday" or DOW == "Friday":
    print(name, "It's FRIDAY!")
 
-elif name == "Vishaal" or name== "vishaal":
+elif name == "sara" or name== "sara":
  DOW = input("What is the day of the week?")
  if DOW == "monday" or DOW == "Monday":
    print("It is going to be a great Monday", name)
